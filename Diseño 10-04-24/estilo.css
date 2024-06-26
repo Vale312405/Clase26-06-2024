@@ -1,0 +1,36 @@
+/*h1{
+    color: aqua;
+}*/
+#Titulo{
+     color:blueviolet;
+    font-size:35px
+}
+/*p{
+    color:
+    font- family: Courier
+}*/
+.Texto{
+     color:rgb(25,70,218);
+     font-family:'Courier New','Courier New', Courier, monospace;
+}
+._1{
+     color:chartreuse;
+     font-size: 40px;
+}
+.Nuevo{
+    color:rgb(216, 25,98) ;
+}
+div p{
+    color:rgb(123, 203,18);
+}
+div h2, div h3{ 
+    color: rgb(249, 149,7);
+}
+.colores{
+    color:rgb(116, 43,226); 
+    border:7px rgb(243,145, 8) dotted;
+}
+*{
+   font-size: 30px;
+   text-align: center;
+}

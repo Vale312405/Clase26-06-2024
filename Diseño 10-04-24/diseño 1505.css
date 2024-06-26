@@ -1,0 +1,14 @@
+body{
+    background-color: coral;
+}
+#Fondo{
+    background-color: rgb(211,175, 245);
+   /* opacity:0,3;*/
+   height: 200px;
+   /*background-image: url(perro.jpg); /* imagen de fondo */
+   /* background-size:cover ; /* ocupa el alto de la etiqueta article y todo el ancho de la pagina de contenido article */
+  /* background-size: auto; /* imagen se repite en el ancho de la pagina de la etiqueta article */
+  /* background-size: 100px 100px;
+   background-repeat: repeat-y; */
+   background:blueviolet url(perro.jpg) repeat-y center bottom ;
+}

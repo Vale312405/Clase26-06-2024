@@ -1,0 +1,11 @@
+/* h1{
+    color: rgb(14,155,98);
+} /* con esto puedo dejar comentarios en Css*/
+#Titulo{
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Texto{
+    color: rgb(84,191,145);
+    font-family: 'Times New Roman', Times, serif;
+}
